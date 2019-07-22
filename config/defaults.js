@@ -3,7 +3,7 @@ define({
   //default web map, default app color theme and more. These values can be overwritten by template configuration settings
   //and url parameters.
   "appid": "ab1cf4fdcccc45c3b4ca716fc9abd456",
-  "webmap": "6277eedab8b6451283af73adcf234006",
+  "webmap": "bac9a67e1631474ca26ead61f079183c",
   "oauthappid": "",
   //Enter the url to the proxy if needed by the applcation. See the "Using the proxy page" help topic for details
   //http://developers.arcgis.com/en/javascript/jshelp/ags_proxy.html
