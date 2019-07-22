@@ -2,7 +2,7 @@ define({
   //Default configuration settings for the applciation. This is where you"ll define things like a bing maps key,
   //default web map, default app color theme and more. These values can be overwritten by template configuration settings
   //and url parameters.
-  "appid": "ab1cf4fdcccc45c3b4ca716fc9abd456",
+  "appid": "",
   "webmap": "bac9a67e1631474ca26ead61f079183c",
   "oauthappid": "",
   //Enter the url to the proxy if needed by the applcation. See the "Using the proxy page" help topic for details
