@@ -58,7 +58,7 @@ define({
   "youtubeVisible": false,
   "youtubeSearch": "",
   "youtubeTime": "all_time", // today, this_week, this_month, all_time
-  "youtube_key": "AIzaSyBvrlsx50mxX_W-Ra2cJ8PB0jKt0jACZfg",
+  "youtube_key": "AIzaSyDdfr7DhoNidcU2XC-wxEUPNLRu_noYOBI",
   "enableDialogModal": false,
   "dialogModalContent": "",
   "dialogModalTitle": "",
